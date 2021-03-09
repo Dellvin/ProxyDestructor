@@ -1,0 +1,7 @@
+------------------REQUEST----------------------
+<{[GET http://google.ru/ HTTP/1.1
+Accept: */*
+Proxy-Connection: Keep-Alive
+User-Agent: curl/7.64.1
+
+]}>
